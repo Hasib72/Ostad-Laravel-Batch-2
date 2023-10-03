@@ -25,5 +25,5 @@ class Product
     }
 }
 
-$product = new Product(1, "T-shirt", 39.99);
+$product = new Product(1, "T-shirt", 19.99);
 $product->showDetails();
